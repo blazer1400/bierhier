@@ -28,13 +28,13 @@ nav a:active {
 }
 header {
     background-color: #234be5;
-    padding:5px 0px;
+    padding:5px 0;
 }
 header h2 {
     color:lightgray;
-    margin-left:15px;
+    text-align: center;
 }
 
 #Personen {
-    margin: 20px;
+
 }
