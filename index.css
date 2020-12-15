@@ -1,7 +1,3 @@
-@font-face {
-    font-family: "Nanum";
-    src: url("fonts/NanumGothic-Bold.ttf");
-}
 body {
-    font-family: Nanum;
+    font-family: 'Nanum Gothic', sans-serif;
 }
