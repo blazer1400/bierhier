@@ -1,13 +1,40 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
-    margin: 0;
+    margin:0;
 }
-
-H2 {
-    margin-left: 15px;
+nav {
+    float:left;
+    background-color: #1834a2;
+    color:white;
+    width:100%;
+    top:0;
+    position:sticky;
+}
+nav a {
+    padding: 10px 20px;
+    transition-duration: 0.4s;
+    float:left;
+    background-color: #1834a2;
+    border: 1px solid #1834a2;
+    color:white;
+}
+nav a:hover  {
+    background-color:lightgray;
+    color:black;
+}
+nav a:active {
+    background-color: #0c244e;
+    color:black;
+}
+header {
+    background-color: #234be5;
+    padding:5px 0px;
+}
+header h2 {
+    color:lightgray;
+    margin-left:15px;
 }
 
 #Personen {
-    margin-left: 15px;
+    margin: 20px;
 }
-
