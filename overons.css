@@ -1,3 +1,13 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
+    margin: 0;
 }
+
+H2 {
+    margin-left: 15px;
+}
+
+#Personen {
+    margin-left: 15px;
+}
+
