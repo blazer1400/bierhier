@@ -1,16 +1,14 @@
-body {
-    font-family: 'Nanum Gothic', sans-serif;
-    margin:0;
+#persoon {
+    display:block;
+    border:3px solid pink;
+    background-color: #cb98a1;
+    width:500px;
 }
-nav {
-    float:left;
-    background-color: #1834a2;
-    color:white;
-    width:100%;
-    top:0;
-    position:sticky;
+#persoon img {
+    width: 400px;
 }
-nav a {
+
+nav button {
     padding: 10px 20px;
     transition-duration: 0.4s;
     float:left;
@@ -18,23 +16,7 @@ nav a {
     border: 1px solid #1834a2;
     color:white;
 }
-nav a:hover  {
+nav button:hover  {
     background-color:lightgray;
     color:black;
-}
-nav a:active {
-    background-color: #0c244e;
-    color:black;
-}
-header {
-    background-color: #234be5;
-    padding:5px 0;
-}
-header h2 {
-    color:lightgray;
-    text-align: center;
-}
-
-#Personen {
-
 }
