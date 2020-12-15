@@ -31,6 +31,7 @@ header {
     padding:5px 0px;
 }
 header h2 {
-    color:lightgray;
+    color:white;
     margin-left:15px;
+    font-size:30px;
 }
