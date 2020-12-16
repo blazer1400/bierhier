@@ -1,0 +1,14 @@
+main {
+    margin-left: 5px;
+    display: grid;
+    grid-template-areas: "main main main";
+}
+main h3 {
+    text-align: left;
+}
+main p {
+    text-align: left;
+}
+main div {
+    grid-area: main;
+}
