@@ -13,3 +13,28 @@ body main .article3 {
     display: grid;
     grid-template-areas: "main main main";
 }
+#image {
+    position:relative;
+    width:100%;
+    z-index:-1;
+}
+#arrowleft {
+    position:absolute;
+    transition-duration:0.1s;
+    width:50px;
+    left:0%;
+    top:42%;
+}
+#arrowright {
+    position:absolute;
+    transition-duration:0.1s;
+    width:50px;
+    right: 0%;
+    top:42%;
+}
+#arrowleft:hover {
+    left:0.5%;
+}
+#arrowright:hover {
+    right:0.5%;
+}
