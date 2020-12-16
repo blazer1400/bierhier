@@ -37,10 +37,10 @@ header h2 {
 }
 footer {
     width:100%;
-    height:125px;
+    height:100px;
+    padding: 20px;
     background-color:black;
     bottom: 0;
-    position: fixed;
 }
 footer a:visited {
     color:white;
@@ -53,8 +53,15 @@ footer a {
     margin-left:10px;
 }
 #copyright {
-    bottom: 0;
-    color: #883030;
-    float: right;
-    margin-bottom: 0;
+    color: #c62fb8;
+    text-align: right;
+}
+main {
+    margin-left: 5px;
+}
+main h3 {
+    text-align: left;
+}
+main p {
+    text-align: left;
 }
