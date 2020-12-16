@@ -1,14 +1,15 @@
-main {
+body main .article1 {
     margin-left: 5px;
     display: grid;
     grid-template-areas: "main main main";
 }
-main h3 {
-    text-align: left;
+body main .article2 {
+    margin-left: 5px;
+    display: grid;
+    grid-template-areas: "main main main";
 }
-main p {
-    text-align: left;
-}
-main div {
-    grid-area: main;
+body main .article3 {
+    margin-left: 5px;
+    display: grid;
+    grid-template-areas: "main main main";
 }
