@@ -4,6 +4,7 @@
     background-color: #cb98a1;
     width:500px;
     text-align:center;
+    grid-area: main;
 }
 #persoon img {
     width: 400px;
@@ -19,4 +20,9 @@ nav button {
 nav button:hover  {
     background-color:lightgray;
     color:black;
+}
+main {
+    display:grid;
+    align-items:center;
+    grid-template-areas: "main";
 }
