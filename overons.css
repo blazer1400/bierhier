@@ -3,11 +3,11 @@
     border:3px solid pink;
     background-color: #cb98a1;
     width:500px;
+    text-align:center;
 }
 #persoon img {
     width: 400px;
 }
-
 nav button {
     padding: 10px 20px;
     transition-duration: 0.4s;
