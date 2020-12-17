@@ -38,3 +38,9 @@ header h2 {
 p.Recepten{
     font-weight: bold;
 }
+p.ingredienten{
+    font-weight: bold;
+}
+p.bereidingswijze{
+    font-weight: bold;
+}
