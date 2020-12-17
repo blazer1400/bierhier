@@ -1,7 +1,7 @@
 var image = document.getElementById("image");
 var left = document.getElementById("arrowleft");
 var right = document.getElementById("arrowright");
-var array = ["img/slider1.jpg", "img/slider2.png", "img/slider3.jpg", "img/slider4.jpg"];
+var array = ["img/slideshow1.png", "img/slideshow2.png", "img/slideshow3.png"];
 var count = 0;
 
 left.addEventListener("click", function () {
