@@ -21,14 +21,14 @@ body main .article3 {
 #arrowleft {
     position:absolute;
     transition-duration:0.1s;
-    width:50px;
+    width:2.5%;
     left:0;
     top:42%;
 }
 #arrowright {
     position:absolute;
     transition-duration:0.1s;
-    width:50px;
+    width:2.5%;
     right: 0;
     top:42%;
 }
@@ -37,4 +37,7 @@ body main .article3 {
 }
 #arrowright:hover {
     right:0.5%;
+}
+.imageslider {
+    width:100%;
 }
