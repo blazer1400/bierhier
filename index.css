@@ -41,3 +41,12 @@ body main .article3 {
 .imageslider {
     width:100%;
 }
+@media all and (max-width:780px) {
+    #arrowleft,#arrowright {
+        top:35%;
+    }
+    .article1,.article2,.article3 {
+        display:grid;
+        grid-template-areas: "main";
+    }
+}
