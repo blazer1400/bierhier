@@ -28,7 +28,8 @@ nav a:active {
     color:black;
 }
 header {
-    background-color: #234be5;
+    background: url("img/banner.jpg") no-repeat;
+    background-size: cover;
     padding:5px 0px;
 }
 header h2 {
