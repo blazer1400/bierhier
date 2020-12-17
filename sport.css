@@ -42,6 +42,7 @@ footer {
     height:200px;
     background-color: #293133;
     bottom: 0;
+    position: fixed;
 }
 footer a:visited {
     color:white;
