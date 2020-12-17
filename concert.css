@@ -63,3 +63,12 @@ footer a {
     float: right;
     font-size: 30px;
 }
+
+.img {
+    margin-top: 7% ;
+    margin-left: 2%;
+}
+h3{
+    float:right;
+    margin-top:-400px;
+}
