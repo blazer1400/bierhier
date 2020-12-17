@@ -1,0 +1,15 @@
+p.Recepten{
+    font-weight: bold;
+}
+p.ingredienten{
+    font-weight: bold;
+}
+p.bereidingswijze{
+    font-weight: bold;
+}
+section{
+    text-align: center;
+}
+.terug{
+    font-weight: bold;
+}

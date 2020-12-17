@@ -7,3 +7,9 @@ p.ingredienten{
 p.bereidingswijze{
     font-weight: bold;
 }
+section{
+    text-align: center;
+}
+.terug{
+    font-weight: bold;
+}
