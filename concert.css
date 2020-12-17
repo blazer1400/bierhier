@@ -4,7 +4,7 @@ body {
 }
 nav {
     float:left;
-    background-color: #1834a2;
+    background-color: #9418a2;
     color:white;
     width:100%;
     top:0;
@@ -15,8 +15,8 @@ nav a {
     padding: 10px 20px;
     transition-duration: 0.4s;
     float:left;
-    background-color: #1834a2;
-    border: 1px solid #1834a2;
+    background-color: #9418a2;
+    border: 1px solid #9418a2;
     color:white;
 }
 nav a:hover  {
@@ -24,7 +24,7 @@ nav a:hover  {
     color:black;
 }
 nav a:active {
-    background-color: #0c244e;
+    background-color: #480c41;
     color:black;
 }
 header {
