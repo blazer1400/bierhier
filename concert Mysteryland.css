@@ -1,0 +1,27 @@
+.mystery{
+    width:100%;
+    position:relative;
+    z-index: -1;
+
+}
+
+.btn {
+    font-size: 50px;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    border-color: gray;
+    border-width: 4px;
+    border-radius: 3px;
+    border-style: outset;
+}
+.iframe{
+    top:30%;
+    left:10%;
+    position:absolute;
+    border-radius:5%;
+
+}
